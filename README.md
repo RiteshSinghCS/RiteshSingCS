@@ -1,5 +1,4 @@
 # RiteshSingCS
-My Personal Repository
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Singh</h1>
 <h3 align="center">I'm a masters student at GLA University, Mathura and actively looking for job opportunities in Tech. I'am skilled at developing frontend application using JS and Bootstrap, and have worked on building many frontend projects . Currently I am learning about developing applications on .NET framework</h3>
 
